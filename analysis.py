@@ -3,7 +3,7 @@ from datetime import datetime
 import pandas as pd
 import os
 
-API_KEY = '211da3ff3be84c69b1519379fc59aa55'  # Replace with your actual API key
+API_KEY = 'APIKEY'  # Replace with your actual API key
 BASE_URL = 'https://api.football-data.org/v4/'
 
 def get_seasons(num_years=20):
